@@ -1,0 +1,22 @@
+{
+  "short_name": "RandyRacing",
+  "name": "Randy Racing 3D - Motocross",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#101010",
+  "theme_color": "#ff5500",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "description": "Juego de carreras de motocross en 3D con giroscopio y 3000 metros de pista."
+}
